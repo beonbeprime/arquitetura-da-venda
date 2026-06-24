@@ -55,7 +55,32 @@ A pergunta de timing é a que mais separa lead bom de lead frio. Se a resposta �
 "daqui a alguns meses", a pessoa não está no fundo, por mais interessada que pareça.
 Não force a oferta. Suba a consciência e mantenha contato.
 
+## MQL vs SQL: a diferença que custa caro
+
+Conceito apresentado na aula de 23/06/2026:
+
+> "Não saber isso me custou mais de R$500 mil. Parece simples, mas na prática
+> a maioria dos times mistura os dois o tempo todo."
+
+| Sigla | Significado | Quem qualifica | Como funciona |
+|-------|-------------|----------------|---------------|
+| MQL | Marketing Qualified Lead | O marketing | Formulário, anúncio ou filtro automático triou as condições básicas (faturamento, nicho, interesse) |
+| SQL | Sales Qualified Lead | O vendedor | Um humano confirmou necessidade, timing e autoridade em uma conversa |
+
+Por que isso importa: tratar um MQL como SQL é avançar na oferta antes de confirmar
+o timing e a necessidade. O lead pode ter passado no filtro do formulário (Budget ok,
+nicho certo) mas ainda não estar no momento certo (Timing errado) ou não ser quem
+decide (Authority incorreta).
+
+O SDR (pré-vendedor) existe para fazer essa transição: transformar MQL em SQL antes
+do closer entrar. Sem essa etapa, o closer perde reuniões com pessoas que não estão
+prontas.
+
 ## O erro clássico que esse diagnóstico evita
 
 Tentar vender para quem ainda não tem consciência. Mesmo uma oferta barata é recusada
 se não houver necessidade. Não é preço, é timing, necessidade e consciência.
+
+Exemplo real: lead com budget, autoridade e necessidade, mas com timing errado (queria
+começar em dois meses). A reunião encerrou em 15 minutos. Manter o relacionamento e
+retomar quando o timing chegasse era a ação certa, não insistir na oferta.

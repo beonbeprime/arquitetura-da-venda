@@ -61,3 +61,37 @@ dela. Comece pela dor que aquela estrutura resolve.
 
 Nem toda verdade da sua entrega deve virar a primeira mensagem de venda. Às vezes o
 mercado ainda não está pronto para o nome técnico. Traduza para a dor reconhecida.
+
+## Exemplos reais (aula de 23/06/2026)
+
+### O dentista e o tártaro (todos os cinco níveis na vida real)
+
+- Nível 1: não sabe que o tártaro pode retrair a gengiva. Não percebe o problema.
+- Nível 2: sabe que faz meses sem limpeza e sente que não está certo, mas não tem dor.
+- Nível 3: sabe que precisa de uma limpeza dental. Conhece a solução genérica.
+- Nível 4: sabe que precisa de um dentista, mas não escolheu qual clínica.
+- Nível 5: a agenda foi marcada. O timing chegou e a decisão virou ação.
+
+O mesmo lead pode estar em níveis diferentes em dias diferentes. A mensagem certa é
+a que fala com o nível em que ele está hoje, não com o nível que você quer que ele
+esteja.
+
+### O dente quebrado (salto direto para o fundo)
+
+Quando o problema é urgente e óbvio, o lead vai do nível 1 ao 5 na mesma hora.
+A copy e o funil longos não se aplicam aqui. O seu papel é facilitar a decisão,
+não educar. Esses leads existem, mas são minoria.
+
+### O lead que queria começar daqui dois meses (timing muda tudo)
+
+Lead com dinheiro, autoridade e necessidade. Mas queria começar em dois meses.
+A reunião encerrou em 15 minutos. Não era lead ruim, era timing errado.
+Um lead no nível 4 de consciência com timing errado se comporta como lead de meio.
+Manter relacionamento e retomar quando o momento chegasse era a ação certa.
+
+### O advogado e o almoço de domingo (implicação vívida no nível 1)
+
+A copy que funcionou para o produto de segunda fase da OAB não falou sobre conteúdo
+difícil ou falta de estudo. Falou sobre o almoço de domingo quando o pessoal pergunta
+"e aí, já passou?". A cena vívida ativa a consciência de quem ainda está no nível 1.
+Isso é SPIN aplicado à copy: a implicação é mais poderosa do que o problema técnico.
